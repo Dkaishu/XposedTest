@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyXposedTest.iml" filepath="$PROJECT_DIR$/MyXposedTest.iml" />
+      <module fileurl="file://D:\myTest\XposedTest\MyXposedTest.iml" filepath="D:\myTest\XposedTest\MyXposedTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/XposedTest.iml" filepath="$PROJECT_DIR$/.idea/XposedTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
